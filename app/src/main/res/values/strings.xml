@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DrawerToggleLikeGmail</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="text">安卓5.0中Activity和Fragment 变换是建立在名叫Transitions的安卓新特性之上的。这个诞生于4.4的transition框架为在不同的UI状态之间产生动画效果提供了非常方便的API。该框架主要基于两个概念：场景（scenes）和变换（transitions）。场景（scenes）定义了当前的UI状态，变换（transitions）则定义了在不同场景之间动画变化的过程。虽然transition翻译为变换似乎很确切，但是总觉得还是没有直接使用transition直观，为了更好的理解下面个别地方直接用transition代表变换。</string>
+    <string name="text2">材料设计应用中的操作行为转换透过通用元素之间的移动和转换提供不同状态之间的视觉连接。 您可为进入、退出转换以及操作行为之间的共享元素转换指定定制动画。\n1，进入转换将决定操作行为中视图如何进入场景。例如，在分解进入转换中，视图将从屏幕外进入场景并飞往屏幕中心。\n2，退出转换将决定操作行为中应用行为的显示视图如何退出场景。例如，在分解退出转换中，视图将从屏幕中心退出场景。\n3，共享元素转换将决定两个操作行为转换之间共享的视图如何在这些操作行为中转换。 例如，如果两个操作行为拥有相同的图像，但其位置与大小不同，changeImageTransform 共享元素转换将在这些操作行为之间平滑地转换与缩放图像。</string>
+</resources>
